@@ -22,9 +22,3 @@ You can install these by running:
 ```bash
 pip install -r requirements.txt
 ```
-Project Structure:
-```
-statistical-analysis-project/
-├── README.md
-├── main.py
-└── requirements.txt
